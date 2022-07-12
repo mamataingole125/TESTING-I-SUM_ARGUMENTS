@@ -27,7 +27,7 @@ describe("Testing sum function", ()=>{
  })
 
  test("call sum with no arguments",()=>{
-    expect(sum()).toBe("sum invoked without arguments")
+    expect(sum()).toBe("sum invoked without argument")
 })
 
 test("call sum with one arguments",()=>{

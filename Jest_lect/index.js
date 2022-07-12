@@ -2,7 +2,7 @@ function sum(...args){
 
   console.log(args)
     if(args.length===0){
-  return "sum invoked without arguments"
+  return "sum invoked without argument"
     }
     else if(args.length===1){
   return "sum function needs atleast 2 arguments"
